@@ -18,7 +18,7 @@
     "helmet": "^3.13.0",
     "joi": "^13.4.0",
     "jsonwebtoken": "^8.3.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "pg": "^7.4.3",
     "sequelize": "^4.38.0",
     "sequelize-cli": "^4.0.0"
